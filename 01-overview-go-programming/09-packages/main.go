@@ -1,6 +1,9 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+	"rnt-go-booking/01-overview-go-programming/09-packages/helpers"
+)
 
 func main() {
 	var varKu helpers.TypeKu
